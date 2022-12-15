@@ -259,6 +259,7 @@ Function Prototypes
 
 ## Authors :black_nib:
 
-* __Seid Muhammed Seid__ <[bdbaraban](https://github.com/AbuhaithemAlthry>
+* __Seid Muhammed Seid__ <[GITHUB](https://github.com/AbuhaithemAlthry)>
+
 
 
